@@ -1,0 +1,2 @@
+gxe_display_language_table_set.c:80:7:_gxe_display_language_table_set	40	static,ignoring_inline_asm
+gxe_display_language_table_set.c:154:6:_gxe_display_language_table_set_ext	56	static,ignoring_inline_asm

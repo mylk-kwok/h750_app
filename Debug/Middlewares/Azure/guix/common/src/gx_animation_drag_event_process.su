@@ -1,0 +1,2 @@
+gx_animation_drag_event_process.c:86:14:_gx_animation_drag_event_check	64	static
+gx_animation_drag_event_process.c:321:7:_gx_animation_drag_event_process	24	static

@@ -1,0 +1,7 @@
+gx_utility_canvas_to_bmp.c:97:13:_gx_utility_write_bitmap_header	120	static
+gx_utility_canvas_to_bmp.c:340:13:_gx_utility_write_bitmap_data_32bpp	40	static
+gx_utility_canvas_to_bmp.c:404:13:_gx_utility_write_bitmap_data_16bpp	48	static
+gx_utility_canvas_to_bmp.c:475:13:_gx_utility_write_bitmap_data_8bpp	48	static
+gx_utility_canvas_to_bmp.c:553:13:_gx_utility_write_bitmap_data_4bpp	56	static
+gx_utility_canvas_to_bmp.c:660:13:_gx_utility_write_bitmap_data_monochrome	56	static
+gx_utility_canvas_to_bmp.c:781:6:_gx_utility_canvas_to_bmp	48	static

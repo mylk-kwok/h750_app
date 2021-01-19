@@ -1,0 +1,4 @@
+gx_image_reader_start.c:74:6:_gx_image_reader_rgb2gray	16	static
+gx_image_reader_start.c:122:13:_gx_image_reader_gray_threshold_calculate	40	static
+gx_image_reader_start.c:209:13:_gx_image_reader_pixelmap_info_set	16	static
+gx_image_reader_start.c:345:6:_gx_image_reader_start	104	static

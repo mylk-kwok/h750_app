@@ -1,0 +1,2 @@
+gxe_widget_string_get.c:76:7:_gxe_widget_string_get	40	static,ignoring_inline_asm
+gxe_widget_string_get.c:146:9:_gxe_widget_string_get_ext	40	static,ignoring_inline_asm

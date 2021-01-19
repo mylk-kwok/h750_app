@@ -1,0 +1,4 @@
+gx_utility_32argb_pixelmap_rotate.c:93:13:_gx_utility_32argb_pixelmap_raw_rotate	144	static
+gx_utility_32argb_pixelmap_rotate.c:371:13:_gx_utility_32argb_pixelmap_alpha_rotate	144	static
+gx_utility_32argb_pixelmap_rotate.c:635:6:_gx_utility_32argb_pixelmap_rotate	40	static
+gx_utility_32argb_pixelmap_rotate.c:701:6:_gx_utility_32argb_pixelmap_simple_rotate	48	static

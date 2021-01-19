@@ -1,0 +1,4 @@
+tx_entry_main.c:38:5:threadx_entry_main	8	static
+tx_entry_main.c:45:6:tx_application_define	56	static
+tx_entry_main.c:74:6:thread_0_entry	16	static
+tx_entry_main.c:85:6:thread_1_entry	24	static

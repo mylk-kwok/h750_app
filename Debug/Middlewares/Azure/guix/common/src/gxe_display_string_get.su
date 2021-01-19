@@ -1,0 +1,2 @@
+gxe_display_string_get.c:75:7:_gxe_display_string_get	40	static,ignoring_inline_asm
+gxe_display_string_get.c:137:7:_gxe_display_string_get_ext	40	static,ignoring_inline_asm

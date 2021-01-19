@@ -1,0 +1,3 @@
+gx_utility_1555xrgb_pixelmap_resize.c:86:13:_gx_utility_1555xrgb_pixelmap_raw_resize	88	static
+gx_utility_1555xrgb_pixelmap_resize.c:260:13:_gx_utility_1555xrgb_pixelmap_alpha_resize	112	static
+gx_utility_1555xrgb_pixelmap_resize.c:488:6:_gx_utility_1555xrgb_pixelmap_resize	32	static

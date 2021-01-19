@@ -1,0 +1,2 @@
+gx_prompt_text_get.c:78:6:_gx_prompt_text_get	32	static
+gx_prompt_text_get.c:142:6:_gx_prompt_text_get_ext	24	static

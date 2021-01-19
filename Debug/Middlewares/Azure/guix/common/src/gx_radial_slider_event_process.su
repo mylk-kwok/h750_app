@@ -1,0 +1,4 @@
+gx_radial_slider_event_process.c:80:14:_gx_radial_slider_pen_down_event_process	48	static
+gx_radial_slider_event_process.c:176:14:_gx_radial_slider_pen_drag_event_process	32	static
+gx_radial_slider_event_process.c:276:14:_gx_radial_slider_pen_up_event_process	32	static
+gx_radial_slider_event_process.c:365:7:_gx_radial_slider_event_process	16	static

@@ -1,0 +1,2 @@
+gxe_context_string_get.c:79:6:_gxe_context_string_get	32	static,ignoring_inline_asm
+gxe_context_string_get.c:149:6:_gxe_context_string_get_ext	32	static,ignoring_inline_asm

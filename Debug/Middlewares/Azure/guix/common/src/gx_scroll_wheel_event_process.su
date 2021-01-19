@@ -1,0 +1,4 @@
+gx_scroll_wheel_event_process.c:80:13:_gx_scroll_wheel_timer_event_handler	32	static
+gx_scroll_wheel_event_process.c:237:13:_gx_scroll_wheel_flick_event_handler	40	static
+gx_scroll_wheel_event_process.c:377:13:_gx_scroll_wheel_pen_up_event_handler	24	static
+gx_scroll_wheel_event_process.c:459:6:_gx_scroll_wheel_event_process	24	static

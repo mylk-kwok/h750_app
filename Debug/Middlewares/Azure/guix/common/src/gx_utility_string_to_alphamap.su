@@ -1,0 +1,6 @@
+gx_utility_string_to_alphamap.c:93:6:_gx_utility_string_to_alphamap	40	static
+gx_utility_string_to_alphamap.c:162:6:_gx_utility_string_to_alphamap_ext	64	static
+gx_utility_string_to_alphamap.c:305:6:_gx_utility_glyph_8bpp_to_alphamap_draw	64	static
+gx_utility_string_to_alphamap.c:409:6:_gx_utility_glyph_4bpp_to_alphamap_draw	72	static
+gx_utility_string_to_alphamap.c:645:6:_gx_utility_glyph_1bpp_to_alphamap_draw	80	static
+gx_utility_string_to_alphamap.c:977:6:_gx_utility_string_to_alphamap_draw	80	static

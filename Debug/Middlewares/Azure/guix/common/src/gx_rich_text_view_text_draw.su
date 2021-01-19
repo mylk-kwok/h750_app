@@ -1,0 +1,2 @@
+gx_rich_text_view_text_draw.c:82:13:_gx_rich_text_view_single_line_draw	128	static
+gx_rich_text_view_text_draw.c:313:7:_gx_rich_text_view_text_draw	136	static

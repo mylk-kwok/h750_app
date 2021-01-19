@@ -1,0 +1,3 @@
+drv_sdram.c:18:13:SDRAM_Initialization_Sequence	24	static
+drv_sdram.c:90:6:SDRAM_Init	8	static
+drv_sdram.c:97:5:sdram_test	24	static

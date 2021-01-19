@@ -1,0 +1,2 @@
+gx_image_reader_image_decode.c:72:13:_gx_image_reader_image_type_get	24	static
+gx_image_reader_image_decode.c:149:6:_gx_image_reader_image_decode	24	static

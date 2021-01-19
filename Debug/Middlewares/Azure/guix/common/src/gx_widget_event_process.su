@@ -1,0 +1,2 @@
+gx_widget_event_process.c:73:14:_gx_widget_children_show_event_process	32	static
+gx_widget_event_process.c:176:7:_gx_widget_event_process	48	static

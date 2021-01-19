@@ -1,0 +1,2 @@
+gx_display_driver_565rgb_rotated_jpeg_draw.c:74:13:_gx_display_driver_565rgb_rotated_mcu_draw	88	static
+gx_display_driver_565rgb_rotated_jpeg_draw.c:180:6:_gx_display_driver_565rgb_rotated_jpeg_draw	32	static

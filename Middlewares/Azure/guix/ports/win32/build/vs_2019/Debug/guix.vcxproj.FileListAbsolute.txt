@@ -1,0 +1,1 @@
+E:\gui_apps\guix\ports\win32\build\vs_2019\Debug\gx.lib

@@ -1,0 +1,4 @@
+gx_utility_gradient_create.c:71:16:_gx_utility_gradient_find	32	static
+gx_utility_gradient_create.c:136:13:_gx_utility_horizontal_alpha_gradient_create	48	static
+gx_utility_gradient_create.c:236:13:_gx_utility_vertical_alpha_gradient_create	32	static
+gx_utility_gradient_create.c:325:6:_gx_utility_gradient_create	32	static

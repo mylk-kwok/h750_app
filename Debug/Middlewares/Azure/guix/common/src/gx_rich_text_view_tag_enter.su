@@ -1,0 +1,4 @@
+gx_rich_text_view_tag_enter.c:106:13:_gx_rich_text_resource_id_read	32	static
+gx_rich_text_view_tag_enter.c:196:13:_gx_rich_text_view_tag_open	88	static
+gx_rich_text_view_tag_enter.c:447:13:_gx_rich_text_view_tag_close	64	static
+gx_rich_text_view_tag_enter.c:520:6:_gx_rich_text_view_tag_enter	24	static

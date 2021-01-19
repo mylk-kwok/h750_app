@@ -1,0 +1,7 @@
+gx_text_scroll_wheel_draw.c:92:14:_gx_text_scroll_wheel_round_text_draw	104	static
+gx_text_scroll_wheel_draw.c:226:14:_gx_text_scroll_wheel_flat_text_draw	32	static
+gx_text_scroll_wheel_draw.c:317:13:_gx_text_scroll_wheel_row_draw	72	static
+gx_text_scroll_wheel_draw.c:422:13:_gx_text_scroll_wheel_text_get	32	static
+gx_text_scroll_wheel_draw.c:543:13:_gx_text_scroll_wheel_round_draw	96	static
+gx_text_scroll_wheel_draw.c:740:13:_gx_text_scroll_wheel_flat_draw	88	static
+gx_text_scroll_wheel_draw.c:883:6:_gx_text_scroll_wheel_draw	16	static

@@ -1,0 +1,2 @@
+gx_canvas_text_draw.c:79:7:_gx_canvas_text_draw	40	static
+gx_canvas_text_draw.c:160:7:_gx_canvas_text_draw_ext	80	static

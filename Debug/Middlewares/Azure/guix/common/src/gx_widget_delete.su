@@ -1,0 +1,2 @@
+gx_widget_delete.c:78:13:_gx_widget_delete_helper	40	static
+gx_widget_delete.c:160:7:_gx_widget_delete	24	static

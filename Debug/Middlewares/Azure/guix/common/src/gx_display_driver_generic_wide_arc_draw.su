@@ -1,0 +1,2 @@
+gx_display_driver_generic_wide_arc_draw.c:82:13:_gx_display_driver_generic_simple_wide_arc_draw	240	static
+gx_display_driver_generic_wide_arc_draw.c:512:6:_gx_display_driver_generic_wide_arc_draw	64	static

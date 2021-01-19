@@ -1,0 +1,17 @@
+w25qxx.c:24:6:W25QXX_Init	8	static
+w25qxx.c:32:6:W25QXX_ExitQPIMode	64	static
+w25qxx.c:62:6:W25QXX_EnterQPIMode	72	static
+w25qxx.c:114:9:W25QXX_ReadSR	80	static
+w25qxx.c:170:6:W25QXX_WriteSR	72	static
+w25qxx.c:222:6:W25QXX_WriteEnable	72	static
+w25qxx.c:264:10:W25QXX_MftrDeviceID	72	static
+w25qxx.c:314:9:W25QXX_UniqueID	64	static
+w25qxx.c:355:6:W25QXX_Read	80	static
+w25qxx.c:395:6:W25QXX_PageProgram	80	static
+w25qxx.c:443:6:W25QXX_Write_NoCheck	32	static
+w25qxx.c:476:6:W25QXX_Write	48	static
+w25qxx.c:538:6:W25QXX_ChipErase	64	static
+w25qxx.c:575:6:W25QXX_SectorErase	72	static
+w25qxx.c:613:6:W25QXX_WaitBusy	8	static
+w25qxx.c:619:6:W25QXX_Reset	64	static
+w25qxx.c:658:6:W25Q_Memory_Mapped_Enable	72	static

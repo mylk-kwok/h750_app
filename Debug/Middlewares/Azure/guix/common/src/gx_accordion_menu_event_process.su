@@ -1,0 +1,7 @@
+gx_accordion_menu_event_process.c:77:13:_gx_accordion_menu_shift_helper	48	static
+gx_accordion_menu_event_process.c:174:13:_gx_accordion_menu_shift	48	static
+gx_accordion_menu_event_process.c:281:13:_gx_accordion_menu_close_animation_update	40	static
+gx_accordion_menu_event_process.c:375:13:_gx_accordion_menu_open_animation_update	40	static
+gx_accordion_menu_event_process.c:470:13:_gx_accordion_menu_pen_down_event_process	24	static
+gx_accordion_menu_event_process.c:558:13:_gx_accordion_menu_pen_up_event_process	32	static
+gx_accordion_menu_event_process.c:660:6:_gx_accordion_menu_event_process	24	static

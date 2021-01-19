@@ -1,0 +1,6 @@
+gx_binres_language_table_load.c:74:6:_gx_binres_resource_header_load	16	static
+gx_binres_language_table_load.c:143:6:_gx_binres_string_header_load	16	static
+gx_binres_language_table_load.c:203:6:_gx_binres_language_header_load	16	static
+gx_binres_language_table_load.c:267:13:_gx_binres_language_table_buffer_allocate	72	static
+gx_binres_language_table_load.c:374:6:_gx_binres_language_table_load	160	static
+gx_binres_language_table_load.c:553:6:_gx_binres_language_table_load_ext	168	static

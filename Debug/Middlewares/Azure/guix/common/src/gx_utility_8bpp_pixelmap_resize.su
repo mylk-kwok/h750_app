@@ -1,0 +1,4 @@
+gx_utility_8bpp_pixelmap_resize.c:85:13:_gx_utility_8bpp_pixelmap_raw_resize	56	static
+gx_utility_8bpp_pixelmap_resize.c:192:13:_gx_utility_8bpp_pixelmap_alpha_resize	104	static
+gx_utility_8bpp_pixelmap_resize.c:417:6:_gx_utility_8bpp_pixelmap_resize	32	static
+gx_utility_8bpp_pixelmap_resize.c:479:6:_gx_utility_8bit_alphamap_resize	72	static

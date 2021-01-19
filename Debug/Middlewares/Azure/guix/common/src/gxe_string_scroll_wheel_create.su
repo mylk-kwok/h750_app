@@ -1,0 +1,2 @@
+gxe_string_scroll_wheel_create.c:86:7:_gxe_string_scroll_wheel_create	56	static,ignoring_inline_asm
+gxe_string_scroll_wheel_create.c:179:6:_gxe_string_scroll_wheel_create_ext	64	static,ignoring_inline_asm

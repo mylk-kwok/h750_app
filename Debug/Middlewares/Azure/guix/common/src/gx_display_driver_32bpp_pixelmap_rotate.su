@@ -1,0 +1,4 @@
+gx_display_driver_32bpp_pixelmap_rotate.c:94:13:_gx_display_driver_24xrgb_pixelmap_rotate	168	static
+gx_display_driver_32bpp_pixelmap_rotate.c:361:13:_gx_display_driver_24xrgb_pixelmap_alpha_rotate	168	static
+gx_display_driver_32bpp_pixelmap_rotate.c:604:13:_gx_display_driver_24xrgb_pixelmap_simple_rotate	88	static
+gx_display_driver_32bpp_pixelmap_rotate.c:787:6:_gx_display_driver_32bpp_pixelmap_rotate	40	static

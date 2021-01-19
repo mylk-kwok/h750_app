@@ -1,0 +1,2 @@
+gxe_text_button_text_get.c:77:6:_gxe_text_button_text_get	32	static,ignoring_inline_asm
+gxe_text_button_text_get.c:146:6:_gxe_text_button_text_get_ext	32	static,ignoring_inline_asm

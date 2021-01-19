@@ -1,0 +1,2 @@
+gx_canvas_rotated_text_draw.c:76:6:_gx_canvas_rotated_text_draw	40	static
+gx_canvas_rotated_text_draw.c:149:6:_gx_canvas_rotated_text_draw_ext	112	static

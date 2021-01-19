@@ -1,0 +1,6 @@
+gx_utility_565rgb_pixelmap_rotate.c:91:13:_gx_utility_565rgb_pixelmap_raw_rotate	136	static
+gx_utility_565rgb_pixelmap_rotate.c:374:13:_gx_utility_565rgb_pixelmap_alpha_rotate	144	static
+gx_utility_565rgb_pixelmap_rotate.c:692:13:_gx_utility_565rgb_pixelmap_simple_raw_rotate	48	static
+gx_utility_565rgb_pixelmap_rotate.c:849:13:_gx_utility_565rgb_pixelmap_simple_alpha_rotate	56	static
+gx_utility_565rgb_pixelmap_rotate.c:1041:6:_gx_utility_565rgb_pixelmap_rotate	40	static
+gx_utility_565rgb_pixelmap_rotate.c:1112:6:_gx_utility_565rgb_pixelmap_simple_rotate	40	static

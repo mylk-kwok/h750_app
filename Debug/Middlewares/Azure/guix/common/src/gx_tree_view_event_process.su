@@ -1,0 +1,5 @@
+gx_tree_view_event_process.c:76:16:_tree_view_selected_detect	32	static
+gx_tree_view_event_process.c:157:13:_gx_tree_view_item_find	48	static
+gx_tree_view_event_process.c:285:13:_gx_tree_view_root_icon_rect_get	32	static
+gx_tree_view_event_process.c:365:13:_gx_tree_menu_pen_down_event_process	40	static
+gx_tree_view_event_process.c:481:6:_gx_tree_view_event_process	16	static
